@@ -1,6 +1,40 @@
-## 
-Olá, sou Gustavo Freitas (ou Freitasfzw)!
-Tenho 20 anos e sou apaixonado por programação e design.
-Com 5 meses de experiência na área, estou em uma jornada constante de aprendizado e evolução. Atualmente, trabalho com JavaScript, HTML e CSS, mas estou sempre em busca de novos desafios. Meu foco é diversificar minhas habilidades e deixar minha marca única em cada projeto que crio. Estou aprendendo TypeScript, React, TailwindCSS e explorando o universo do UI/UX Design, com o objetivo de construir soluções criativas, funcionais e visualmente impactantes.
+# 👨‍💻 Gustavo Freitas
 
-Se você procura inovação, dedicação e um toque pessoal em cada linha de código, está no lugar certo!
+🎯 **Front-End Developer | UI/UX Designer | Web Designer**  
+📍 Rio Grande do Sul, Brasil  
+🚀 Em constante evolução, transformando ideias em experiências digitais marcantes.
+
+---
+
+## 🧠 Sobre mim
+
+Olá! Meu nome é **Gustavo Freitas**, tenho 20 anos e iniciei minha jornada na programação há cerca de cinco meses. Desde então, mergulhei de cabeça no desenvolvimento Front-End e no universo do design digital.
+
+Sou um entusiasta da tecnologia que une **lógica de programação** com **design criativo**, sempre buscando criar interfaces funcionais, modernas e intuitivas.
+
+Atualmente, possuo conhecimento avançado em:
+
+- **HTML5** – Estrutura de páginas web
+- **CSS3** – Estilização com responsividade, animações e design moderno
+- **JavaScript** – Interatividade e comportamento dinâmico
+- **Figma** – Prototipação e design de interfaces
+
+---
+
+## 💡 Objetivo
+
+Meu foco é evoluir constantemente como desenvolvedor e designer, buscando novas ferramentas, desafios e soluções criativas. Estou aberto a **colaborações, freelas ou oportunidades profissionais** na área de desenvolvimento Front-End.
+
+---
+
+## 📫 Contato
+
+- 📷 [Instagram](https://www.instagram.com/freitas.fzw)
+- 📧 [E-mail](mailto:seguidoresfreitas@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavofreitascode/)
+- 🖥️ [Portfólio](https://seu-site-aqui.com) _(adicione se quiser)_
+
+---
+
+> “Embora a programação tenha começado como um hobby, meu objetivo é transformá-la na minha profissão.”
+
