@@ -17,7 +17,6 @@ Atualmente, possuo conhecimento avançado em:
 - **HTML5** – Estrutura de páginas web
 - **CSS3** – Estilização com responsividade, animações e design moderno
 - **JavaScript** – Interatividade e comportamento dinâmico
-- **Figma** – Prototipação e design de interfaces
 
 ---
 
