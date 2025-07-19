@@ -1,6 +1,6 @@
 # 👨‍💻 Gustavo Freitas
 
-🎯 **Front-End Developer | UI/UX Designer | Web Designer**  
+🎯 **Front-End Developer | Web Designer**  
 📍 Rio Grande do Sul, Brasil  
 🚀 Em constante evolução, transformando ideias em experiências digitais marcantes.
 
