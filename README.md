@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-Olá! Meu nome é **Gustavo Freitas**, tenho 20 anos e iniciei minha jornada na programação há cerca de sete meses. Desde então, mergulhei de cabeça no desenvolvimento Front-End e no universo do design digital.
+Olá! Meu nome é **Gustavo Freitas**, tenho 20 anos e iniciei minha jornada na programação inicio de 2025. Desde então, mergulhei de cabeça no desenvolvimento Front-End e no universo do design digital.
 
 Sou um entusiasta da tecnologia que une **lógica de programação** com **design criativo**, sempre buscando criar interfaces funcionais, modernas e intuitivas.
 
