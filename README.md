@@ -28,6 +28,7 @@ Meu foco é evoluir constantemente como desenvolvedor e designer, buscando novas
 
 ## 📫 Contatos
 
+- [Instagram](https://www.instagram.com/freitas.fzw)
 - 📷 [Instagram](https://www.instagram.com/freitas.fzw)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavofreitascode/)
 
